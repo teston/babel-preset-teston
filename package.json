@@ -1,0 +1,22 @@
+{
+  "name": "babel-preset-teston",
+  "version": "0.1.0-beta.0",
+  "author": "r-frederick <ridge.frederick@gmail.com>",
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/plugin-transform-regenerator": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "@babel/preset-env": "^7.1.6",
+    "eslint-config-teston": "^0.1.0-beta.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/runtime": "^7.1.5",
+    "eslint": "^5.9.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.1.6"
+  }
+}
