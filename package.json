@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-teston",
-  "version": "0.1.0-beta.0",
+  "version": "0.1.0-beta.1",
   "author": "r-frederick <ridge.frederick@gmail.com>",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.1.0",
